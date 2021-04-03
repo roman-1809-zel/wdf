@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.head-block {
+    background-image: url(https://image.winudf.com/v2/image/Y29tLm5pZ2h0c2t5d2FsbHBhcGVyLmhkLm5pZ2h0c2t5cGljdHVyZXMucGhvdG9zLmJhY2tncm91bmQuY3V0ZS5jb29sLmFydC5uaWdodHNreWltYWdlcy5oZC5mcmVlX3NjcmVlbl8xM18xNTMzMjUwMTk1XzA2OA/screen-13.jpg?fakeurl=1&type=.jpg    );
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.kid-1 {
+    color: white;
+    text-align: center;
+    padding-top: 300px;
+}
+
+.den-texten {
+    font-size: 100px;
+}
+
+.fbi {
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.knopka {
+    background-color: rgb(255, 255, 255);
+    padding: 15px 25px;
+    margin-top: 30px;
+    display: block;
+    width: 200px;
+    margin: auto;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+
+.latest-title {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.latest-text {
+    text-align: center;
+}
+
+.latest-kid_1 {
+    width: 40%;
+    margin: auto;
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+
+.latest-kid_2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.brother {
+    padding: 20px;
+}
+
+.tp {
+    width: 390px;
+}
+
+.text {
+    width: 300px;
+}
+
+.zag {
+    font-weight: 600;
+}
+
+.figma {
+    background: linear-gradient(86.89deg, #1BE789 2.57%, #21CDEF 97.43%), linear-gradient(93.67deg, #00D461 11.27%, rgba(255, 255, 255, 0) 112.86%), #00AFE7;
+    padding-top: 65px;
+}
+
+.ach1 {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 46px;
+    line-height: 54px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.h2o {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 120%;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 31px;
+    padding-bottom: 64px;
+}
+
+.figma-items {
+    justify-content: center;
+    display: flex;
+}
+
+.item.first {
+    padding-right: 32px;
+    margin-bottom: 102px;
+}
+
+.princess {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+    margin-bottom: 16px;
+    padding: 29px 59px 29px 105px;
+    position: relative;
+}
+
+.arrow {
+    position: absolute;
+    top: 28px;
+    left: 40px;
+}
